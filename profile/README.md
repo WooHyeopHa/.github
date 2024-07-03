@@ -55,8 +55,8 @@
     <td align="center"><strong>임지현</strong></td>
   </tr>
     <tr>
-    <td align="center"><a href="https://github.com/ehyeok9"><b>@numerical43</b></td>
-    <td align="center"><a href="https://github.com/Jiihyun"><b>@Subak-Uncle</b></td>
+    <td align="center"><a href="https://github.com/ehyeok9"><b>@ehyeok9</b></td>
+    <td align="center"><a href="https://github.com/Jiihyun"><b>@Jiihyun</b></td>
   </tr>
 </table>
 
