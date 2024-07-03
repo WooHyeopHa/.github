@@ -7,7 +7,7 @@
 #### PM
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dbguswls030"><img src="https://avatars.githubusercontent.com/yeoseongil" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/yeoseongil"><img src="https://avatars.githubusercontent.com/yeoseongil" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><strong>여성일</strong></td>
@@ -31,7 +31,7 @@
 #### iOS
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dbguswls030"><img src="https://avatars.githubusercontent.com/yeoseongil" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/yeoseongil"><img src="https://avatars.githubusercontent.com/yeoseongil" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><strong>여성일</strong></td>
