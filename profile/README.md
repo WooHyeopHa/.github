@@ -48,15 +48,12 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ehyeok9"><img src="https://avatars.githubusercontent.com/ehyeok9" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/Jiihyun"><img src="https://avatars.githubusercontent.com/Jiihyun" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><strong>이혁규</strong></td>
-    <td align="center"><strong>임지현</strong></td>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/ehyeok9"><b>@ehyeok9</b></td>
-    <td align="center"><a href="https://github.com/Jiihyun"><b>@Jiihyun</b></td>
   </tr>
 </table>
 
