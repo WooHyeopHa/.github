@@ -4,8 +4,6 @@
 
 ## 👋 팀원 소개
 
-<br/>
-
 #### 디자인
 <table>
   <tr>
@@ -35,12 +33,18 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ehyeok9"><img src="https://avatars.githubusercontent.com/ehyeok9" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/lalabulla"><img src="https://avatars.githubusercontent.com/lalabulla" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/minseo9974"><img src="https://avatars.githubusercontent.com/minseo9974" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><strong>이혁규</strong></td>
+    <td align="center"><strong>이규현</strong></td>
+    <td align="center"><strong>이민서</strong></td>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/ehyeok9"><b>@ehyeok9</b></td>
+    <td align="center"><a href="https://github.com/lalabulla"><b>@lalabulla</b></td>
+    <td align="center"><a href="https://github.com/minseo9974"><b>@minseo9974</b></td>
   </tr>
 </table>
 
