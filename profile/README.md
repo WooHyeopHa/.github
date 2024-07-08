@@ -4,19 +4,6 @@
 
 ## 👋 팀원 소개
 
-#### PM
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/yeoseongil"><img src="https://avatars.githubusercontent.com/yeoseongil" width="150px;" alt="">
-  </tr>
-  <tr>
-    <td align="center"><strong>여성일</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/yeoseongil"><b>@yeoseongil</b></td>
-  </tr>
-</table>
-
 <br/>
 
 #### 디자인
